@@ -78,11 +78,6 @@
       loadContent(activeLink);
 
       loadFooter();
-
-
-      
-      
-        
     }
 
     function displayAbout()
